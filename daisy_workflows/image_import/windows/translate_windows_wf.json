@@ -134,7 +134,7 @@
           }
         }
       ],
-      "Timeout": "60m"
+      "Timeout": "600m"
     },
     "delete-inst-translate": {
       "DeleteResources": {
